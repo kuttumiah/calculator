@@ -1,0 +1,20 @@
+{
+    "name": "kuttumiah/calculator",
+    "description": "This is a package created by following tutorial on w3resource.com and bagisto to learn building packages for Laravel.",
+    "keywords": ["package","calculator"],
+    "type": "library",
+    "homepage": "https://github.com/kuttumiah/calculator",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "Md Robaiatul Islam",
+            "email": "robaiat.shaon@gmail.com",
+            "homepage": "https://github.com/kuttumiah",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev"
+}
